@@ -1,12 +1,13 @@
-Medidor de Índice de Massa Corporal (IMC)
-
+# Medidor de Índice de Massa Corporal (IMC)
 
 Este é um programa simples para medir o índice de massa corporal (IMC) de uma pessoa e fornecer sugestões de hábitos saudáveis com base no resultado.
 
-Como funciona?
+## Como funciona?
+
 O programa solicita ao usuário sua altura e peso, e calcula o IMC usando a fórmula IMC = peso (kg) / altura (m)². Com base no resultado do IMC, o programa exibe uma mensagem com a categoria correspondente de IMC, idade e sugestões de hábitos saudáveis.
 
-Categorias de IMC
+## Categorias de IMC
+
 O IMC é classificado em categorias de acordo com o resultado, que indicam o nível de obesidade e risco para a saúde. As categorias são:
 
 Abaixo do peso: IMC abaixo de 18,5
@@ -29,7 +30,8 @@ Para IMC obesidade grau 2 e 3: procurar orientação médica, adotar uma dieta s
 Como usar
 Para usar o programa, basta executar o arquivo main.py em um terminal ou console Python. O programa solicitará a entrada da altura e do peso do usuário, e exibirá o resultado do IMC e as sugestões de hábitos saudáveis correspondentes.
 
-Requisitos
+## Requisitos
+
 O programa foi desenvolvido usando Python 3.7 ou superior. Não há requisitos adicionais de instalação.
 
 Autor
